@@ -1,12 +1,10 @@
-<img src="https://avatars.githubusercontent.com/u/48824639?s=400&u=1f5076832918082eabd62e3d9416f6da33dbf6ab&v=4">
-
 <h2> Hey there! I'm Aiam.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from University of California, Irvine with a BS in Computer Engineering.
-- 🌱 &nbsp; Learning more about Full Stack Web Development,
+- 🌱 &nbsp; Learning more about Full Stack Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -33,7 +31,7 @@
 
 <a href="https://github.com/aiamabadilla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aiamabadilla&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiamabadilla8&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiamabadilla&theme=buefy&layout=compact" />
 </a>
 
 <br/>
